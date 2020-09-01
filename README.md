@@ -1,5 +1,4 @@
 # Face-Recognition-and-Face-Detection-using-OpenCV
-Face Recognition and Face Detection Using OpenCV
 
 For Run the code.... just run tester.py script.
 
